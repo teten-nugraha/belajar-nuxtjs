@@ -16,7 +16,7 @@
     "vue-material": "^1.0.0-beta-14"
   },
   "devDependencies": {
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^9.0.2"
   }
 }
